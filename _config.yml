@@ -9,8 +9,7 @@ description: Site feito em atividade complementar
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/AC-SITE"
 
-url:"https://gabri190.github.io/"
-url:"https://gabri190.github.io/"
+url: "https://gabri190.github.io/"
 
 
 # LANDING PAGE
